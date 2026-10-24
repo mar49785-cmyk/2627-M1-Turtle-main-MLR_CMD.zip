@@ -2,7 +2,9 @@
 Este es el primer juego/entregable de teoría. Para comenzar a desarrollar nuestro videojuego, comenzaremos creando un pequeño juego de carreras de tortugas.
 
 # Integrantes del grupo:
+
 > Mar López Requena
+
 > Cayetana Muñoz Domínguez
 
 Para no comenzar desde cero y poder familiarizarnos con el desarrollo de juegos básicos, se nos provee de una demo del juego con funcionalidad reducida. 
