@@ -10,7 +10,7 @@ Para no comenzar desde cero y poder familiarizarnos con el desarrollo de juegos 
 > **Fecha límite: jueves 22 de octubre.** Basta con que lo suba una persona del grupo.
 
 
-# Integrantes del grupo:
+## Integrantes del grupo:
 
 > Mar López Requena
 
