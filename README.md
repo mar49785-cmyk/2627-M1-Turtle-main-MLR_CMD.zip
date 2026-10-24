@@ -1,12 +1,6 @@
 # Turtle-GAME MLR_CMD
 Este es el primer juego/entregable de teoría. Para comenzar a desarrollar nuestro videojuego, comenzaremos creando un pequeño juego de carreras de tortugas.
 
-# Integrantes del grupo:
-
-> Mar López Requena
-
-> Cayetana Muñoz Domínguez
-
 Para no comenzar desde cero y poder familiarizarnos con el desarrollo de juegos básicos, se nos provee de una demo del juego con funcionalidad reducida. 
 
 > **Cómo entregar (curso 26/27).** En el repositorio `2627-M1-Turtle` pulsad
@@ -14,6 +8,14 @@ Para no comenzar desde cero y poder familiarizarnos con el desarrollo de juegos 
 > (ya no se usa *fork*). Cuando lo tengáis resuelto, comprimid el proyecto en
 > `tortuga-<nombre del grupo>.zip` y subidlo al formulario de ev.us.es.
 > **Fecha límite: jueves 22 de octubre.** Basta con que lo suba una persona del grupo.
+
+
+# Integrantes del grupo:
+
+> Mar López Requena
+
+> Cayetana Muñoz Domínguez
+
 
 ## Cómo se evalúa este hito
 
